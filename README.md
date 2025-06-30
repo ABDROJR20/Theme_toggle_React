@@ -29,31 +29,9 @@ This is my fifth React project a mini project that uses **Context API** to toggl
 - JavaScript
 ___
 
-## How to Run Locally
-1. Clone the repo:
-    ```bash
-    git https://github.com/mkhalilhaider/Theme-Toggle-light-dark-React
-    ```
-2. Install dependencies:
-    ```bash
-    npm install
-    ```
-3. Start the development server:
-    ```bash
-    npm run dev
-    ```
+
 
 ---
 
-## Live Demo
-Made with 💻 by [Khalil Haider](https://www.github.com/mkhalilhaider).
 
-This app is deployed using Netlify. You can view it live at [Theme-Switcher](https://themeswitcher-react.netlify.app/).
-
-## 🤝 Connect with Me
-
-I'm always open to discussions, collaborations, and learning from others. **Let's connect!**
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkhalilhaider/)
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mkhalilhaider)
 
